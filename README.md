@@ -1,6 +1,5 @@
 # Machine-Learning-Projects
-Projects using various Machine Learning Algorithms with Data Visualization 
-Short descriptions of projects are given below:
+Projects using various Machine Learning Algorithms with Data Visualization. Short descriptions of projects are given below:
 
 # Project-1 : Linear Regression
 Title:- Ecommerce Customer Behavior Analysis
