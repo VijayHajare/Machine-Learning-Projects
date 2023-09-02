@@ -19,4 +19,4 @@ Title:- Loan Default Prediction with ANNs
 * Design and training of an ANNs using TensorFlow and Keras 
 * Improvement of model performance using dropout layers 
 
-*Note:- The dataset used for Project-3 is uploaded in compressed folder.
+*Note:- The dataset used for Project-3 is uploaded as compressed folder named 'lending_club_loan_two.rar'
